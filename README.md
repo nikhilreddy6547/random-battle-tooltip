@@ -8,7 +8,7 @@ Data is expressed in percentages. This data changes dynamically as the enemy rev
 Warnings
 ------------------------------------------------------------------------
 
-Use of the tooltip on anything but a Rated Random Battle will have no effect.
+Use of the tooltip on anything but a Rated/Unrated Random Battle will have no effect.
 Only one game should be open at any time to avoid confusing the tooltip.
 As time passes, this tooltip will become slightly outdated. Use at your own risk.
 
