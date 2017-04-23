@@ -1,7 +1,7 @@
 Random Battle Tooltip
 ========================================================================
 
-This a tooltip made to be used with Pokemon Showdown's Rated Random Battle mode using open source code from the Pokemon Showdown server.
+This a tooltip made to be used with Pokemon Showdown's Random Battle mode using open source code from the Pokemon Showdown server.
 The tooltip provides useful data on an enemy's item, ability, moves, and stats.
 Data is expressed in percentages. This data changes dynamically as the enemy reveals some of their information over the course of a game.
 
