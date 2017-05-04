@@ -9,7 +9,6 @@ Warnings
 ------------------------------------------------------------------------
 
 Use of the tooltip on anything but a Rated/Unrated Random Battle will have no effect.
-Only one game should be open at any time to avoid confusing the tooltip.
 As time passes, this tooltip will become slightly outdated. Use at your own risk.
 
 How to install
@@ -25,10 +24,11 @@ How to run
 ------------------------------------------------------------------------
 
 To activate the tooltip, go to back to the snippet. Right-click the file "Script snippet #1" (or whatever you named it) and hit run.
-The tooltip will remain activated until the tab is closed.
+The tooltip will remain activated for all random battle games until the Google Chrome tab is closed.
+Closing the tab does not delete the snippet.
 
 Issues
 ------------------------------------------------------------------------
 
-Sometimes you will see "No viable sets found!" This is usually normal behavior if the server randomly assigns a pokemon a set.
-However if you see an invalid number or negative number, please report the issue at GitHub.
+Sometimes you will see "No viable sets found!" This is usually normal behavior if the pokemon is unconventional (like Shuckle).
+However if you see this for a somewhat conventional pokemon (like Bisharp) or see an invalid number or negative number, report the issue at GitHub.
