@@ -21,14 +21,20 @@ This should open a tab of "Sources", "Content Scripts", and "Snippets". If you o
 Select the "Snippets" tab, and create a new snippet. This should open a text box on the right side of your screen.
 Copy/Paste the text of the tooltip file into this textbox. Be sure to hit Ctrl+S to save it, and viola!
 
+For Firefox, right-click anywhere on Pokemon Showdown, and click on "Inspect Element". Press Shift+[F4] to open up ScratchPad.
+Open the tooltip file in ScratchPad.
+
 This probably works with other browsers but I cannot guanrantee this.
 
 How to run
 ------------------------------------------------------------------------
 
 To activate the tooltip, go to back to the snippet. Right-click the file "Script snippet #1" (or whatever you named it) and hit run.
-The tooltip will remain activated for all random battle games until the Google Chrome tab is closed.
-Once it is run, there is no need to reactivate it until you close the entire Google Chrome tab.
+
+For Firefox, go back to ScratchPad, and re-open if necessary. Now hit run, and you are done!
+
+The tooltip will remain activated for all random battle games until the browser tab is closed.
+Once it is run, there is no need to reactivate it until you close the entire Google browser tab.
 Closing the tab does not delete the snippet.
 
 Issues
