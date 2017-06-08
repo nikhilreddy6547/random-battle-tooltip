@@ -5,6 +5,12 @@ This a tooltip made to be used with Pokemon Showdown's Unrated or Rated Random B
 The tooltip provides useful data on an enemy's item, ability, moves, and stats that exceeds data found on the default tooltip.
 Data is expressed in percentages. This data changes dynamically as the enemy reveals some of their information over the course of a game.
 
+![Screenshot](/screenshots/Haxorus.PNG)
+![Screenshot](/screenshots/moves.PNG)
+
+There is one of four tooltips you can activate: stats, moves, items, abilities.
+It is to be noted that the tooltip knows perfectly what stats a Pokemon has.
+
 Warnings
 ------------------------------------------------------------------------
 
