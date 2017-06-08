@@ -1,16 +1,15 @@
 Random Battle Tooltip
 ========================================================================
 
-This a tooltip made to be used with Pokemon Showdown's Unrated Random Battle mode using open source code from the Pokemon Showdown server.
+This a tooltip made to be used with Pokemon Showdown's Unrated or Rated Random Battle mode using open source code from the Pokemon Showdown server.
 The tooltip provides useful data on an enemy's item, ability, moves, and stats that exceeds data found on the default tooltip.
 Data is expressed in percentages. This data changes dynamically as the enemy reveals some of their information over the course of a game.
 
 Warnings
 ------------------------------------------------------------------------
 
-Use of the tooltip on anything but a Unrated Random Battle will have no effect.
-In particular, the tooltip will not appear on Rated Random Battles.
-As time passes, this tooltip will become slightly outdated as the data files change slightly. Use at your own risk.
+Use of the tooltip on anything but a Unrated or Rated Random Battle will have no effect.
+As time passes, this tooltip will become slightly outdated as new Pokemon are released and balanced. Use at your own risk.
 
 How to install
 ------------------------------------------------------------------------
