@@ -42,6 +42,8 @@ The tooltip will remain activated for all random battle games until the browser 
 Once it is run, there is no need to reactivate it until you close the entire Google browser tab.
 Closing the tab does not delete the snippet.
 
+Update: As of 7/23/17, a Chrome Extension version has been released! You can find it here: https://chrome.google.com/webstore/detail/fpeemclhojbkjkamiinkplghgkhddcgc
+
 Issues
 ------------------------------------------------------------------------
 
