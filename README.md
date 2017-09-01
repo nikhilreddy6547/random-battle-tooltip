@@ -20,6 +20,8 @@ As time passes, this tooltip will become slightly outdated as new Pokemon are re
 How to install
 ------------------------------------------------------------------------
 
+Update: As of 7/23/17, a Chrome Extension version has been released! You can find it here: https://chrome.google.com/webstore/detail/fpeemclhojbkjkamiinkplghgkhddcgc
+
 You just need a way of uploading and running a Javascript file. The best way to install is with Google Chrome:
 Right-click anywhere on Pokemon Showdown, and click on "Inspect". In the tabs on the near the top, click on Sources.
 This should open a tab of "Sources", "Content Scripts", and "Snippets". If you only see 1 or 2, click on the ">>".
@@ -41,8 +43,6 @@ For Firefox, go back to ScratchPad, and re-open if necessary. Now hit run, and y
 The tooltip will remain activated for all random battle games until the browser tab is closed.
 Once it is run, there is no need to reactivate it until you close the entire Google browser tab.
 Closing the tab does not delete the snippet.
-
-Update: As of 7/23/17, a Chrome Extension version has been released! You can find it here: https://chrome.google.com/webstore/detail/fpeemclhojbkjkamiinkplghgkhddcgc
 
 Issues
 ------------------------------------------------------------------------
